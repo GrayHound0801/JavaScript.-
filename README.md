@@ -1,4 +1,3 @@
-# JavaScript.-
 
 # variables 변수
 
