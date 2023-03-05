@@ -1,4 +1,3 @@
-
 # variables 변수
 
 -  var, _ let , _ const
