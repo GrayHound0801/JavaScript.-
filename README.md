@@ -8,4 +8,5 @@
 let a = ()
 
 * const(상수) 값이 항상 그대로 유지
+
 const b = ()
